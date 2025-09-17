@@ -1,5 +1,5 @@
 # Basedpyright Extension for Zed
-
+## in case that basedpyright are now built-in, i think we all no longer need this version :p
 ## Pre-requisites
 
 * Python 3.9+
